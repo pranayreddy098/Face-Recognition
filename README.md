@@ -1,3 +1,3 @@
 # Face-Recognition
 
-Facial recognition is an innovative technology leveraging computer vision and machine learning techniques to identify individuals based on their unique facial features. This project aims to implement a Python-based facial recognition system that compares facial images against a known database to recognize identities accurately. The project begins with data preprocessing, where raw stock data is cleaned, missing values are handled, and new features are engineered to better understand the temporal aspects of the data. 
+Facial recognition is an innovative technology leveraging computer vision and machine learning techniques to identify individuals based on their unique facial features. This project aims to implement a Python-based facial recognition system that compares facial images against a known database to recognize identities accurately.
